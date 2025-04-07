@@ -1,16 +1,10 @@
-Creative Commons Attribution-NonCommercial 4.0 International Public License
+Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
-By using this code, you agree to the terms of the Creative Commons Attribution-NonCommercial 4.0 International License.
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
 
-You are free to:
-- Share — copy and redistribute the material in any medium or format
-- Adapt — remix, transform, and build upon the material
+[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
 
-Under the following terms:
-- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
-- NonCommercial — You may not use the material for commercial purposes.
-
-No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
-
-Full legal code: https://creativecommons.org/licenses/by-nc/4.0/legalcode
-Human-readable summary: https://creativecommons.org/licenses/by-nc/4.0/
+[cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
+[cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
+[cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
